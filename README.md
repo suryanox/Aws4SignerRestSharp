@@ -7,8 +7,5 @@ AWS requests with V4 Signature using RestSharp
 3) REST API
 4) RestSharp https://restsharp.dev/
 
-## Permission
-An individual or an organization is fully permitted to use this code.
-
 ## Usage
 go to program.cs and everything is self explanatory.
